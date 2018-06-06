@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: li.l1t.common:xyc-api:4.4.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/li/l1t/common/xyc-api/4.4.2/xyc-api-4.4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/li/l1t/common/xyc-api/4.4.2/xyc-api-4.4.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/li/l1t/common/xyc-api/4.4.2/xyc-api-4.4.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

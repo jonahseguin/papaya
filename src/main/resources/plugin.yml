@@ -1,0 +1,10 @@
+###
+### Copyright (c) Jonah Seguin 2018.
+###
+name: papaya
+main: com.jonahseguin.papaya.Papaya
+version: ${project.version} (Minecraft 1.7.10)
+author: Jonah Seguin (Shawckz)
+website: onah.io | purified.io | jonahseguin.com
+depend: [ProtocolLib]
+description: papaya Anti-Cheat by Jonah Seguin
